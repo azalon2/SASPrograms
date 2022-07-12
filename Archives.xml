@@ -2,7 +2,5 @@
 <ArchInfo Date="1657625637092" Description="Version A" Name="List_Job" PackageName="List_Job.spk" UserID="sasadm@saspw" Version="6a74fad">
 <ContainObj>SBIP://METASERVER/User Folders/sasadm/My Folder/Jobs/List_Job(Job)</ContainObj>
 </ArchInfo>
-<ArchInfo Date="1657625999475" Description="version B&#10;&#10;" Name="List_Job" PackageName="List_Job.spk" UserID="sasadm@saspw" Version="f01d35e">
-<ContainObj>SBIP://METASERVER/User Folders/sasadm/My Folder/Jobs/List_Job(Job)</ContainObj>
-</ArchInfo>
+
 </ROOT>
