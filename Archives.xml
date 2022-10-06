@@ -7,4 +7,7 @@
 <ArchInfo Date="1657631882609" Description="Version B" Name="List_Job" PackageName="List_Job.spk" UserID="sasadm@saspw" Version="54e96d0">
 <ContainObj>SBIP://METASERVER/User Folders/sasadm/My Folder/Jobs/List_Job(Job)</ContainObj>
 </ArchInfo>
+<ArchInfo Date="1665073784527" Description="1062022" Name="job" PackageName="job.spk" UserID="sasdemo@SAS-AAP" Version="3fcccda">
+<ContainObj>SBIP://METASERVER/User Folders/sasdemo/My Folder/New Job 1062022(Job)</ContainObj>
+</ArchInfo>
 </ROOT>
