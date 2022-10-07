@@ -13,4 +13,7 @@
 <ArchInfo Date="1665075346272" Description="new commit" Name="job2" PackageName="job2.spk" UserID="sasdemo@SAS-AAP" Version="6a958f9">
 <ContainObj>SBIP://METASERVER/User Folders/sasdemo/My Folder/New Job 1062022(Job)</ContainObj>
 </ArchInfo>
+<ArchInfo Date="1665124647029" Description="commit 10-7-2022" Name="Job 2.36" PackageName="Job 2.36.spk" UserID="sasadm@saspw" Version="8eb5206">
+<ContainObj>SBIP://METASERVER/User Folders/sasadm/My Folder/Jobs/Job 2.36(Job)</ContainObj>
+</ArchInfo>
 </ROOT>
